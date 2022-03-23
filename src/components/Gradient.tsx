@@ -1,6 +1,11 @@
 import React from "react";
+import "../css/Gradient.css";
 
-const Gradient = () => {
+interface GradientProps {
+  disabled?: boolean;
+}
+
+const Gradient = ({ disabled }: GradientProps) => {
   return <div>Gradient</div>;
 };
 
