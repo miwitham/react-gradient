@@ -1,0 +1,8 @@
+{
+  "name": "@miwitham/react-gradient",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/miwitham/react-gradient.git",
+  "author": "Michael Witham <michael.a.witham@outlook.com>",
+  "license": "MIT"
+}
